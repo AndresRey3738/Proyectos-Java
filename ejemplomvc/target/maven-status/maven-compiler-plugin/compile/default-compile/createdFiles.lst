@@ -1,0 +1,6 @@
+controlador\ManipularFiguras.class
+Modelo\Rectangulo.class
+Modelo\FiguraGeometrica.class
+Modelo\Triangulo.class
+Modelo\Circulo.class
+Vista\InicioConsola.class
